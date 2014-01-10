@@ -11,4 +11,3 @@ setup of the [TotT](http://tott-meetup.rtfd.org) development environment.
 
 I will say, Git Gutter is pretty cool and I have not heard of it before...
 
-Lorem ipsum.
