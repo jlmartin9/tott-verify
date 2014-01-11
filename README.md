@@ -13,4 +13,4 @@ I will say, Git Gutter is pretty cool and I have not heard of it before...
 
 This is a test from a VM running on my W520.
 
-
+And this is a test editing the repository locally on my W520.
