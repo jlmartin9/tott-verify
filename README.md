@@ -10,3 +10,7 @@ setup of the [TotT](http://tott-meetup.rtfd.org) development environment.
 # Git Gutter
 
 I will say, Git Gutter is pretty cool and I have not heard of it before...
+
+This is a test from a VM running on my W520.
+
+
